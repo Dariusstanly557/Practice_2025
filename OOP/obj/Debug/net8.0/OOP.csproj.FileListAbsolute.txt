@@ -1,0 +1,14 @@
+C:\Stanly\Practices\OOP\OOP\bin\Debug\net8.0\OOP.exe
+C:\Stanly\Practices\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\Stanly\Practices\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\Stanly\Practices\OOP\OOP\bin\Debug\net8.0\OOP.dll
+C:\Stanly\Practices\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+C:\Stanly\Practices\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stanly\Practices\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\Stanly\Practices\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\Stanly\Practices\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\Stanly\Practices\OOP\OOP\obj\Debug\net8.0\OOP.dll
+C:\Stanly\Practices\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\Stanly\Practices\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+C:\Stanly\Practices\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\Stanly\Practices\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
